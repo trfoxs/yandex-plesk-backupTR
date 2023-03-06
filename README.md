@@ -1,5 +1,5 @@
 # yandex-plesk-backupTR
-![](https://img.shields.io/badge/Ver.-1.0.1-dark) ![](https://img.shields.io/badge/Author-foxtr-blue) ![](https://img.shields.io/badge/profile-semihbtr-green?logo=linkedin&style=flat-square) ![](https://img.shields.io/badge/turkish-red)
+![](https://img.shields.io/badge/Ver.-1.0.1-dark) ![](https://img.shields.io/badge/Author-foxtr-blue) ![](https://img.shields.io/badge/profile-semihbtr-green?logo=linkedin&style=flat-square) ![](https://shields.io/badge/license-MIT-informational) ![](https://img.shields.io/badge/turkish-red)
 
 Yandex Plesk Yedekleme Türkçe
 v.1.0.1
