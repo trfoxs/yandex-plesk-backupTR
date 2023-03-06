@@ -30,7 +30,7 @@ echo -e "
 		echo -e "[\e[31mOK\e[39m] $foldername dizini oluşturulmuş"
 	
 		# create plesk cron.weekly
-		if [ $(which plesk version) ]; then 
+		if [ $(which plesk) ]; then 
 			echo -e "[\e[31mOK\e[39m] Plesk kurulmuş"
 			echo -e "[\e[93mDOING\e[39m] Plesk otomatik yedekleme cron.weekly oluşturuluyor..."
 			rm -f /etc/cron.weekly/plesk-yandex-backup
