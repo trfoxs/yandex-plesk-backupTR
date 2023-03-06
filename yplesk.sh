@@ -1,8 +1,8 @@
 #!/bin/bash
 ##
 # Name: Plesk Yandex haftalık güncelleme
-# Author: foxtr
-# Update: foxtr
+# Author: trfoxs
+# Update: trfoxs
 # Version: 1.0.1
 # Description: Yandex sync plesk yedekleme
 
@@ -18,8 +18,6 @@ echo -e "
 ....##....##.....##.##........#######..##.....##..######.
 
 [TR] Yandex Disk Plesk Yedekleme
-[RU] Резервное копирование Plesk на Яндекс Диске
-[DE] Yandex Disk Plesk-Sicherung
 ................................................
 "
 	echo -e "[\e[31mOK\e[39m] Yandex-disk tespit edildi !"
@@ -42,8 +40,8 @@ echo "\
 #!/bin/bash
 ##
 # Name: Plesk Yandex haftalık güncelleme
-# Author: foxtr
-# Update: foxtr
+# Author: trfoxs
+# Update: trfoxs
 # Version: 1.0.1
 # Description: Yandex sync plesk yedekleme
 
